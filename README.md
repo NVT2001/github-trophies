@@ -1,2 +1,0 @@
-# github-trophies
-personal title
